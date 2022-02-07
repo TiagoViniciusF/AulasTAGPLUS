@@ -6,7 +6,10 @@ A Classe Funcionario é a Classe mãe, com o método bonficação para ser imple
 As classes Analista e Gerente herdam da classe Funcionario.
 E emplementam o método bonificação(), de acordo com o tipo de funcionario.
 
+
 <h3>Classe Gerente</h3>
+
+
 ```shell script
    
 public class Gerente extends Funcionario{
